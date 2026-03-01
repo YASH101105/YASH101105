@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&lines=2nd+Year+BTech+CS+Student;Backend+Dev+%F0%9F%9A%A8;DSA+%26+LeetCode+Grinder;Building+APIs+%26+Full-Stack;Open+for+Internships+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
-🌟 **Turning code into career** | 📍 Sahāranpur, UP | 🎓 AKTU
+🌟 **Turning code into career** | 📍 NEW DELHI 
 
 </div>
 
@@ -29,7 +29,7 @@
 </div>
 
 ## 📈 LeetCode Progress
-> **200+ problems solved** | Medium: 60% | Weekly Contest Regular
+> **50+ problems solved** | Medium: 40% | Weekly Contest Regular
 
 <details>
 <summary>🏆 Recent Highlights</summary>
@@ -38,12 +38,7 @@
 - Preparing for: Top 100 Liked Questions
 </details>
 
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AI Attendance](https://github.com/yashrastogi/ai-attendance) | Face recognition system | Python, OpenCV |
-| [REST API Boilerplate](https://github.com/yashrastogi/spring-api) | Full CRUD Spring Boot API | Java, Spring Boot, MySQL |
-| [Anime Edits Bot](https://github.com/yashrastogi/anime-bot) | Automated YouTube Shorts editor | Python, FFmpeg |
+
 
 ## 🌐 Connect
 <p align="center">
