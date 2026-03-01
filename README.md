@@ -23,8 +23,6 @@
   
 [![Yash's GitHub Stats](https://github.com/YASH101105)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashrastogi&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 </div>
 
 ## 📈 LeetCode Progress
