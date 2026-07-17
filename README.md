@@ -26,7 +26,7 @@
 </div>
 
 ## 📈 LeetCode Progress
-> **50+ problems solved** | Medium: 40% | Weekly Contest Regular
+> **170+ problems solved** | Medium: 45% | Weekly Contest Regular
 
 <details>
 <summary>🏆 Recent Highlights</summary>
