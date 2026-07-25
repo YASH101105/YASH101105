@@ -3,7 +3,7 @@
 # Hey there! 👋 I'm Yash Rastogi
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&lines=2nd+Year+BTech+CS+Student;Backend+Dev+%F0%9F%9A%A8;DSA+%26+LeetCode+Grinder;Building+APIs+%26+Full-Stack;Open+for+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&lines=3rd+Year+BTech+CS+Student;Backend+Dev+%F0%9F%9A%A8;DSA+%26+LeetCode+Grinder;Building+APIs+%26+Full-Stack;Open+for+Internships+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 🌟 **Turning code into career** | 📍 NEW DELHI 
