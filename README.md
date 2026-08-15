@@ -15,7 +15,7 @@
 
 **Backend:** Java, Spring Boot, REST APIs  
 **Frontend:** HTML/CSS/JS, React (learning)  
-**Tools:** Git, LeetCode (150+ problems), IntelliJ  
+**Tools:** Git, LeetCode (200+ problems), IntelliJ  
 **Currently:** DSA mastery + tech interview prep 🚀
 
 ## 🔥 GitHub Stats
@@ -26,7 +26,7 @@
 </div>
 
 ## 📈 LeetCode Progress
-> **180+ problems solved** | Medium: 45% | Weekly Contest Regular
+> **200+ problems solved** | Medium: 45% | Weekly Contest Regular
 
 <details>
 <summary>🏆 Recent Highlights</summary>
